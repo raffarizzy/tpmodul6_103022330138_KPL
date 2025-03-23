@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\RAFFA\\Documents\\KULIAH\\SEMESTER4\\Praktikum Konstruksi Perangkat Lunak\\W6\\modul6_103022330138\\modul6_103022330138.csproj": {}
+    "C:\\Users\\RAFFA\\Documents\\KULIAH\\SEMESTER4\\Praktikum Konstruksi Perangkat Lunak\\W6\\from github\\tpmodul6_103022330138_KPL\\modul6_103022330138.csproj": {}
   },
   "projects": {
-    "C:\\Users\\RAFFA\\Documents\\KULIAH\\SEMESTER4\\Praktikum Konstruksi Perangkat Lunak\\W6\\modul6_103022330138\\modul6_103022330138.csproj": {
+    "C:\\Users\\RAFFA\\Documents\\KULIAH\\SEMESTER4\\Praktikum Konstruksi Perangkat Lunak\\W6\\from github\\tpmodul6_103022330138_KPL\\modul6_103022330138.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\RAFFA\\Documents\\KULIAH\\SEMESTER4\\Praktikum Konstruksi Perangkat Lunak\\W6\\modul6_103022330138\\modul6_103022330138.csproj",
+        "projectUniqueName": "C:\\Users\\RAFFA\\Documents\\KULIAH\\SEMESTER4\\Praktikum Konstruksi Perangkat Lunak\\W6\\from github\\tpmodul6_103022330138_KPL\\modul6_103022330138.csproj",
         "projectName": "modul6_103022330138",
-        "projectPath": "C:\\Users\\RAFFA\\Documents\\KULIAH\\SEMESTER4\\Praktikum Konstruksi Perangkat Lunak\\W6\\modul6_103022330138\\modul6_103022330138.csproj",
+        "projectPath": "C:\\Users\\RAFFA\\Documents\\KULIAH\\SEMESTER4\\Praktikum Konstruksi Perangkat Lunak\\W6\\from github\\tpmodul6_103022330138_KPL\\modul6_103022330138.csproj",
         "packagesPath": "C:\\Users\\RAFFA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\RAFFA\\Documents\\KULIAH\\SEMESTER4\\Praktikum Konstruksi Perangkat Lunak\\W6\\modul6_103022330138\\obj\\",
+        "outputPath": "C:\\Users\\RAFFA\\Documents\\KULIAH\\SEMESTER4\\Praktikum Konstruksi Perangkat Lunak\\W6\\from github\\tpmodul6_103022330138_KPL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
